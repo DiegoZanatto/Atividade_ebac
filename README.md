@@ -2,7 +2,7 @@
 Simple Data Visualization with Pandas and Seaborn
 This project demonstrates a simple process of generating a CSV file, reading it using Pandas, and creating a line plot using Seaborn. The generated line plot is then saved as a PNG image.
 
-Project Overview
+# Project Overview
 The project involves the following steps:
 
 Data Preparation: The project starts by defining a dataset representing daily gasoline sales. This dataset is then written into a CSV file using the csv module.
@@ -13,7 +13,7 @@ Data Visualization: The Pandas DataFrame is used to create a line plot using Sea
 
 Image Saving: The generated line plot is saved as a high-resolution PNG image using Matplotlib's savefig function.
 
-How to Use
+# How to Use
 1) Clone the repository to your local machine using the following command:
   git clone https://github.com/your-username/Atividade_EBAC.git
 2) Navigate to the project directory:
@@ -26,14 +26,14 @@ After running the script, you will find two new files in the project directory:
 gasolina.csv: The CSV file containing the generated data.
 gasolina.png: The line plot visualizing the data, saved as a PNG image.
 
-Requirements
+# Requirements
 Python 3.x
 Pandas
 Seaborn
 Matplotlib
 
-Author
+# Author
 Diego Zanatto
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
