@@ -15,7 +15,7 @@ Image Saving: The generated line plot is saved as a high-resolution PNG image us
 
 # How to Use
 1) Clone the repository to your local machine using the following command:
-  git clone https://github.com/your-username/Atividade_EBAC.git
+  git clone https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/DiegoZanatto/Atividade_ebac.git
 2) Navigate to the project directory:
    cd Atividade_EBAC
 3) Run the script:
